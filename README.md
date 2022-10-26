@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm shin</h1>
-<h3 align="center">I wanna be a Machine Learning Developer</h3>
+<h1 align="left">Hi 👋, I'm shin</h1>
+<h3 align="left">I wanna be a Machine Learning Developer</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
