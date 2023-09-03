@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 portfolio [https://polydactyl-nut-292.notion.site/ae723e44aa1347258b352bc491eb8072](https://polydactyl-nut-292.notion.site/ae723e44aa1347258b352bc491eb8072)
+- 👨‍💻 portfolio https://peat-collar-507.notion.site/83928e0999d14d78bf1ed45acf13d003?pvs=4
 
 </p>
 
