@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm shin</h1>
-<h3 align="left">I wanna be a Machine Learning Engineer</h3>
+<h3 align="left">I work as a Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 💡 My areas of interest are MLOps, multi-agent systems, Knowledge Graphs, and GraphRAG.
 
 - 👨‍💻 portfolio https://peat-collar-507.notion.site/81ab43dc6fc24b869c717c6497c86bad
 
